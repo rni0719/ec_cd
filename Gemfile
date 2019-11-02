@@ -76,7 +76,7 @@ gem 'refile-mini_magick'
 gem 'rspec'
 gem 'jquery-rails'
 gem 'enum_help'
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'pry-byebug'
 
 #論理削除用のGem
